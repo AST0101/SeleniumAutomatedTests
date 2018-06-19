@@ -1,0 +1,2 @@
+# SeleniumAutomatedTests
+Test scripts training
