@@ -12,7 +12,7 @@ class HomePage {
 //        return driver;
 //    }
 
-    //element not found - to be fixed next
+    //element not found
     WebElement homeLogo = driver.findElement(By.cssSelector(".logo"));
 
 }
