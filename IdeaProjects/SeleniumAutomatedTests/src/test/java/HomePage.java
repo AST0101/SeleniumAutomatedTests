@@ -14,5 +14,4 @@ public class HomePage {
 
     //element not found - to be fixed
     WebElement homeLogo = driver.findElement(By.cssSelector(".logo"));
-
 }
