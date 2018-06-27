@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="libs">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/selenium-java-3.12.0.zip!/libs" />
+      <root url="jar://$USER_HOME$/Downloads/chromedriver_win32.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/selenium-java-3.12.0.zip!/libs" />
+      <root url="jar://$USER_HOME$/Downloads/chromedriver_win32.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/chromedriver_win32.zip!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/selenium-java-3.12.0.zip!/libs" />
+      <root url="jar://$USER_HOME$/Downloads/chromedriver_win32.zip!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Downloads/selenium-java-3.12.0.zip!/libs" />
+      <root url="jar://$USER_HOME$/Downloads/chromedriver_win32.zip!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/selenium-java-3.12.0.zip!/libs" />
+      <root url="jar://$USER_HOME$/Downloads/chromedriver_win32.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/chromedriver_win32.zip!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$USER_HOME$/Downloads/chromedriver_win32.zip!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/selenium-java-3.12.0.zip!/libs" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/chromedriver_win32.zip!/" recursive="false" type="SOURCES" />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/selenium-java-3.12.0.zip!/libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
