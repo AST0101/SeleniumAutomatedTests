@@ -7,11 +7,6 @@ class HomePage {
 
     private static WebDriver driver = new ChromeDriver();
 
-
-//    public static WebDriver getDriver() {
-//        return driver;
-//    }
-
     //element not found
     WebElement homeLogo = driver.findElement(By.cssSelector(".logo"));
 
